@@ -23,3 +23,7 @@ All of the subject of the sentences should be in one of 6 specified classes. The
 * Unkown
 
 After finding subject, every pair-sentences were assigned to their own classes.
+
+link of Dataset:
+
+https://github.com/Ledengary/COPER/blob/main/Datasets/PerSICK.csv
